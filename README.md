@@ -1,2 +1,2 @@
 # Backtracking
-Programa para traçar um possível percurso com base em uma estrutura.
+Programa desenvolvido com base nos conhecimentos adquiridos via disciplina acadêmica Complexidade de Algoritmos. O algoritmo tem como objetivo traçar um possível caminho com base em uma matriz descrita em uma arquivo auxiliar chamado entrada.txt. Para a realização do cálculo do percurso é utiliza a técnica de Backtracking. Após a verificação ser realizada o programa executa o display do caminho, e caso não o encontre mostra uma mensagem identificando que não foi possível traçar um caminho com base nas informações informadas.
