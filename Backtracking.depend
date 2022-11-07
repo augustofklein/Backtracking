@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667780956 source:c:\users\augus\onedrive\Área de trabalho\backtracking\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
